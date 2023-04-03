@@ -10,7 +10,7 @@
 |4|2023.03.13|스프링 MVC 2편 - 백엔드 웹 개발 활용 기술|[링크🔗](https://github.com/hellozo0/Spring_Wiki/issues/5)|[링크🔗](https://github.com/hellozo0/Spring_Wiki/tree/main/스프링%20MVC%202편%20-%20백엔드%20웹%20개발%20활용%20기술)|검증, 필터, 예외처리|
 |5|2023.03.20|자바 ORM 표준 JPA 프로그래밍 - 기본편|[링크🔗](https://github.com/hellozo0/Spring_Wiki/issues/6)|[링크🔗](https://github.com/hellozo0/Spring_Wiki/tree/main/자바%20ORM%20표준%20JPA%20프로그래밍%20-%20기본편)|패치조인, 프록시 & 지연로딩 , 영속성 컨텍스트|
 |6|2023.04.03|실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발|[링크🔗](https://github.com/hellozo0/Spring_Wiki/issues/7)|[링크🔗](https://github.com/hellozo0/Spring_Wiki/tree/main/실전!%20스프링%20부트와%20JPA%20활용1%20-%20웹%20애플리케이션%20개발)||
-|7|2023.04.10|실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화|[링크🔗]()|[링크🔗]()||
+|7|2023.04.10|실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화|[링크🔗](https://github.com/hellozo0/Spring_Wiki/issues/8)|[링크🔗](https://github.com/hellozo0/Spring_Wiki/tree/main/실전!%20스프링%20부트와%20JPA%20활용2%20-%20API%20개발과%20성능%20최적화)||
 
 
 <br>
